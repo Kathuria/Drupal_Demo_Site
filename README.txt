@@ -1,6 +1,8 @@
 # Drupal_Demo_Site
 Drupal Beginner Workshop
 
+Drupal Version: 8.7.1
+
 Site-Name: Drupal_Demo
 Site Email: ak_admin@drupaldemo.com
 
